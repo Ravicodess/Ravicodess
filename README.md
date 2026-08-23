@@ -5,24 +5,12 @@
 💻 ᴀɪ • ꜱᴏꜰᴛᴡᴀʀᴇ • ʀᴇꜱᴇᴀʀᴄʜ 🚀 ᴛᴜʀɴɪɴɢ ɪᴅᴇᴀꜱ ɪɴᴛᴏ ᴘʀᴏᴊᴇᴄᴛꜱ 🧪 ᴇxᴘᴇʀɪᴍᴇɴᴛꜱ ʟɪᴠᴇ ʜᴇʀᴇ
 
 
-<a href="https://github.com/raviicodess" target="_blank" rel="noopener noreferrer"
-   style="display:inline-block;padding:10px 18px;background:#24292f;color:white;text-decoration:none;border-radius:8px;font-weight:600;">
-  🐙 GitHub
+<a href="https://github.com/raviicodess">
+  <img src="https://img.shields.io/badge/GitHub-raviicodess-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+   
+</a><a href="https://open.spotify.com/user/31v3mkpopquwr7epua5rms27zzfq?si=5pTn6HadQiKG0t9ZEArV4g&utm_source=copy-link">
+  <img src="https://img.shields.io/badge/Spotify-Listen%20Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+  
+</a><a href="https://share.google/5pdbuKpnKyEtBeqHk">
+  <img src="https://img.shields.io/badge/SRA-The%20Future%20of%20Student%20Research-2563EB?style=for-the-badge&logo=academia&logoColor=white" alt="Student Research Alliance">
 </a>
-
-
-<a href="https://open.spotify.com/user/31v3mkpopquwr7epua5rms27zzfq?si=5pTn6HadQiKG0t9ZEArV4g&utm_source=copy-link&sci=spotify%3Acard-config%3A4l6zvjNjJgXrB0sqQOP7Fb"
-   target="_blank"
-   rel="noopener noreferrer"
-   style="display:inline-block;
-          padding:12px 20px;
-          background:#1DB954;
-          color:white;
-          text-decoration:none;
-          border-radius:25px;
-          font-family:Arial,sans-serif;
-          font-weight:bold;">
-  🎵 Spotify
-</a>
-
-[![Student Research Alliance](https://img.shields.io/badge/Student%20Research%20Alliance-The%20Future%20of%20Student%20Research-blue?style=for-the-badge)](https://share.google/5pdbuKpnKyEtBeqHk)
