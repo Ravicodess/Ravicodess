@@ -1,4 +1,4 @@
-<img width="540" height="270" alt="Natsume Yuujinchou" src="https://github.com/user-attachments/assets/671c205c-116f-4cba-a16d-ea7e1efb0532" />
+<img width="736" height="414" alt="Mao mao" src="https://github.com/user-attachments/assets/940f8209-8595-4bf1-87bc-b6b727aeb891" />
 
 
 
