@@ -1,4 +1,5 @@
-<img width="734" height="307" alt="The Amazing Spider-Man" src="https://github.com/user-attachments/assets/9682520f-488b-4c4b-afb8-977824b01154" />
+<img width="640" height="400" alt="download" src="https://github.com/user-attachments/assets/edc2c57d-9b69-4718-8f56-6d301a2667f9" />
+
 
 ᴊᴜꜱᴛ ᴇxᴘᴇʀɪᴍᴇɴᴛɪɴɢ, ʙᴜɪʟᴅɪɴɢ, ᴀɴᴅ ʟᴇᴀʀɴɪɴɢ.
 
