@@ -1,4 +1,5 @@
-<img width="640" height="400" alt="download" src="https://github.com/user-attachments/assets/edc2c57d-9b69-4718-8f56-6d301a2667f9" />
+<img width="540" height="270" alt="Natsume Yuujinchou" src="https://github.com/user-attachments/assets/671c205c-116f-4cba-a16d-ea7e1efb0532" />
+
 
 
 ᴊᴜꜱᴛ ᴇxᴘᴇʀɪᴍᴇɴᴛɪɴɢ, ʙᴜɪʟᴅɪɴɢ, ᴀɴᴅ ʟᴇᴀʀɴɪɴɢ.
